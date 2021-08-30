@@ -22,3 +22,18 @@ if (year % 4 === 0) {
 } else {
     console.log("The Year "+ year + " is not a leap year");
 }
+
+
+//else_if statement
+var area = "circle";
+var pi = 3.142, l = 5, b = 3, r = 4;
+
+if (area == "square") {
+    console.log("The area of the square is " + (l * l));
+} else if (area == "rectangle") {
+    console.log("The area of the rectangle is " + (l * b));
+} else if (area == "circle") {
+    console.log("The area of the circle is " + (pi * r * r));
+} else {
+    console.log("Please enter a  valid data.");
+}
