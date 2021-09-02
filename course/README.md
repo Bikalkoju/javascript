@@ -10,4 +10,11 @@ Table Of Content
 6.Chapter 6 / Libraries  
 7.Chapter 7 / Variables  
 8.Chapter 8 / String Interpolation  
-9.Chapter 9 / 
+9.Chapter 9 / Control Flow  
+    9.1.if else statement  
+    9.2.True and False  
+    9.3.Comparision Operator  
+    9.4.Else if Statement  
+    9.5.Logical Operation  
+    9.6.Switch Statement  
+    9.7.Ternary Operator  
