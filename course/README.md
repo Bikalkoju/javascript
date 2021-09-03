@@ -26,4 +26,12 @@ Table Of Content
 11.Scope  
 &nbsp;11.1.Global Scope  
 &nbsp;11.2.Block Scope  
+12.Array  
+&nbsp;12.1.Introduction  
+&nbsp;12.2.Property Access  
+&nbsp;12.3.Element Update  
+&nbsp;12.4.Length Property  
+&nbsp;12.5.Push and pop method  
+&nbsp;12.6.Array Methods  
+
 
